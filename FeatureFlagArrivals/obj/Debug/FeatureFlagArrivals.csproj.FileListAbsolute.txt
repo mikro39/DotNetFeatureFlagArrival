@@ -1,0 +1,12 @@
+C:\src\Learning-projects\FeatureFlagArrivals\FeatureFlagArrivals\bin\Debug\FeatureFlagArrivals.exe.config
+C:\src\Learning-projects\FeatureFlagArrivals\FeatureFlagArrivals\bin\Debug\FeatureFlagArrivals.exe
+C:\src\Learning-projects\FeatureFlagArrivals\FeatureFlagArrivals\bin\Debug\FeatureFlagArrivals.pdb
+C:\src\Learning-projects\FeatureFlagArrivals\FeatureFlagArrivals\obj\Debug\FeatureFlagArrivals.csproj.AssemblyReference.cache
+C:\src\Learning-projects\FeatureFlagArrivals\FeatureFlagArrivals\obj\Debug\FeatureFlagArrivals.csproj.CoreCompileInputs.cache
+C:\src\Learning-projects\FeatureFlagArrivals\FeatureFlagArrivals\obj\Debug\FeatureFlagArrivals.exe
+C:\src\Learning-projects\FeatureFlagArrivals\FeatureFlagArrivals\obj\Debug\FeatureFlagArrivals.pdb
+C:\src\Learning-projects\FeatureFlagArrivals\FeatureFlagArrivals\bin\Debug\FeatureToggle.Common.dll
+C:\src\Learning-projects\FeatureFlagArrivals\FeatureFlagArrivals\bin\Debug\FeatureToggle.dll
+C:\src\Learning-projects\FeatureFlagArrivals\FeatureFlagArrivals\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\src\Learning-projects\FeatureFlagArrivals\FeatureFlagArrivals\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\src\Learning-projects\FeatureFlagArrivals\FeatureFlagArrivals\obj\Debug\FeatureFlagArrivals.csproj.CopyComplete
